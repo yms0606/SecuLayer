@@ -11,7 +11,7 @@
   * 순위 및 비율 : 89 (14.9%)
 # 결과 화면
 -----------------------------------
-![image](https://github.com/yms0606/SecuLayer/assets/29352791/bc721350-c534-434f-a0ba-dc4aed599db9)
+![score](./img/score.PNG)
 # 사용한 방법 & 알고리즘
 ----------------------------------
   * team1 pred:1, team2 pred:0 으로 설정
@@ -20,7 +20,7 @@
   * embedding한 값을 바탕으로 pred 값과 함께 분류 학습
 # 코드
 ----------------------------------
-March_Machine_Learning_Mania_2016.ipynb
+[Code][]
 # 참고자료
 ----------------------------------
 https://www.kaggle.com/code/midouuu/data-mining-mmn
