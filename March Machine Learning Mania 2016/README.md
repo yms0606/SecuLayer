@@ -20,7 +20,7 @@
   * embedding한 값을 바탕으로 pred 값과 함께 분류 학습
 # 코드
 ----------------------------------
-[Code][]
+[March_Machine_Learning_Mania_2016](./March_Machine_Learning_Mania_2016.ipynb)
 # 참고자료
 ----------------------------------
-https://www.kaggle.com/code/midouuu/data-mining-mmn
+[https://www.kaggle.com/code/midouuu/data-mining-mmn](https://www.kaggle.com/code/midouuu/data-mining-mmn)
