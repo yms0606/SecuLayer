@@ -11,7 +11,7 @@
   * 순위 및 비율 : 103 (5.7%)
 # 결과 화면
 -----------------------------------
-
+![rank](./img/rank.PNG)
 # 사용한 방법 & 알고리즘
 ----------------------------------
   * lightgbm 사용
@@ -20,7 +20,7 @@
   * 채소 각각 값 예측
 # 코드
 ----------------------------------
-
+[2021 농산물 가격예측 AI 경진대회.ipynb](./2021_농산물_가격예측_AI_경진대회.ipynb)
 # 참고자료
 ----------------------------------
-
+[https://dacon.io/competitions/official/235801/codeshare/3349?page=1&dtype=recent](https://dacon.io/competitions/official/235801/codeshare/3349?page=1&dtype=recent)
