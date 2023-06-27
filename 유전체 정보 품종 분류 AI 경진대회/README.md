@@ -14,12 +14,14 @@
 ![rank](./img/rank.PNG)
 # 사용한 방법 & 알고리즘
 ----------------------------------
-  * RandomForest 사용
-  * 범주형 데이터 -> 수치형 데이터: 원 핫 인코딩
-  * 결측치 채우고 학습
+  * LabelEncoder를 통한 유전 정보 수치화
+  * combinations을 통한 샘플링
+  * 샘플링 각각을 대상으로 모델 학습
+  * GridSearchCV 사용해 최적화 하이퍼 파라미터 탐색
+  * 찾은 하이퍼 파라미터 값으로 예측
 # 코드
 ----------------------------------
-[유전체 정보 품종 분류 AI 경진대회](./유전체 정보 품종 분류 AI 경진대회.ipynb)
+[유전체 정보 품종 분류 AI 경진대회](./유전_정보_품종_분류_AI_경진대회.ipynb)
 # 참고자료
 ----------------------------------
 [https://dacon.io/competitions/official/236035/codeshare/7435?page=1&dtype=recent](https://dacon.io/competitions/official/236035/codeshare/7435?page=1&dtype=recent)
