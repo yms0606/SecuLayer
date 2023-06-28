@@ -19,7 +19,7 @@
   * LGBMRegressor 사용해 학습
 # 코드
 ----------------------------------
-[자율주행 센서의 안테나 성능 예측 AI 경진대회.ipynb](./자율주행 센서의 안테나 성능 예측_AI_경진대회.ipynb)
+[자율주행 센서의 안테나 성능 예측 AI 경진대회.ipynb](./자율주행_센서의_안테나_성능_예측_AI_경진대회.ipynb)
 # 참고자료
 ----------------------------------
 [https://dacon.io/competitions/official/235927/codeshare/6652?page=1&dtype=recent](https://dacon.io/competitions/official/235927/codeshare/6652?page=1&dtype=recent)
