@@ -15,6 +15,7 @@
 # 사용한 방법 & 알고리즘
 ----------------------------------
   * country 결측치, train, test 합친 후 LabelEncoder 사용
+
      (train['country'].unique() != test['country'].unique() )
   * ExtraTreesClassifier 사용
   * GridSearchCV로 하이퍼 파라미터 튜닝 후 학습
