@@ -1,0 +1,12 @@
+version: 2
+id: 236112
+score: 0.55
+team: 810
+rank: 10
+date: 2023-07-03
+organization: SecuLayer
+team:
+  name: dac_oyn
+  members:
+    - id: dac_oyn
+      name: 윤민식
