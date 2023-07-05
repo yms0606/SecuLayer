@@ -19,7 +19,7 @@
   * GradientBoostingClassifier과 XGBClassifier 1대1 비율로 앙상블
 # 코드
 ----------------------------------
-[Flavours of Physics: Finding τ → μμμ](./Flavours of Physics,Finding.ipynb)
+[Flavours of Physics,Finding](./Flavours of Physics,Finding.ipynb)
 # 참고자료
 ----------------------------------
 [https://www.kaggle.com/code/justfor/gridsearchcv-with-feature-in-xgboost](https://www.kaggle.com/code/justfor/gridsearchcv-with-feature-in-xgboost)
