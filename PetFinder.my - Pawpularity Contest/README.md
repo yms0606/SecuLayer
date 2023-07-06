@@ -19,7 +19,7 @@
   * fastai 사용해 모델 학습
 # 코드
 ----------------------------------
-[PetFinder.my - Pawpularity Contest](./Petfinder.my - Pawpularity Contest.ipynb)
+[Petfinder.my - Pawpularity Contest.ipynb](https://github.com/yms0606/SecuLayer/blob/main/PetFinder.my%20-%20Pawpularity%20Contest/Petfinder.my%20-%20Pawpularity%20Contest.ipynb)
 # 참고자료
 ----------------------------------
 [https://www.kaggle.com/code/adityasharma01/fork-of-17-90508-notebook](https://www.kaggle.com/code/adityasharma01/fork-of-17-90508-notebook)
