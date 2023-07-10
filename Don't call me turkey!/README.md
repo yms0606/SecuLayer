@@ -20,6 +20,6 @@
   * pad sequnces 사용
 # 코드
 ----------------------------------
-[Don't call me turkey!.ipynb](https://github.com/yms0606/SecuLayer/blob/main/PetFinder.my%20-%20Pawpularity%20Contest/Petfinder.my%20-%20Pawpularity%20Contest.ipynb)
+[dont call me turkey](https://github.com/yms0606/SecuLayer/blob/main/Don't%20call%20me%20turkey!/Dont%20call%20me%20turkey.ipynb)
 # 참고자료
 ----------------------------------
