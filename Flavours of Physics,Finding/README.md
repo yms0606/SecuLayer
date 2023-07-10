@@ -22,4 +22,3 @@
 [Flavours of Physics,Finding](https://github.com/yms0606/SecuLayer/blob/main/Flavours%20of%20Physics%2CFinding/Flavours%20of%20Physics%2CFinding.ipynb)
 # 참고자료
 ----------------------------------
-[https://www.kaggle.com/code/justfor/gridsearchcv-with-feature-in-xgboost](https://www.kaggle.com/code/justfor/gridsearchcv-with-feature-in-xgboost)

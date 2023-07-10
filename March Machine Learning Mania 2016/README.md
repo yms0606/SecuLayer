@@ -24,4 +24,3 @@
 [March_Machine_Learning_Mania_2016](./March_Machine_Learning_Mania_2016.ipynb)
 # 참고자료
 ----------------------------------
-[https://www.kaggle.com/code/midouuu/data-mining-mmn](https://www.kaggle.com/code/midouuu/data-mining-mmn)

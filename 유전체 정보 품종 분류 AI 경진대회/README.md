@@ -26,4 +26,3 @@
 [유전체 정보 품종 분류 AI 경진대회](./유전_정보_품종_분류_AI_경진대회.ipynb)
 # 참고자료
 ----------------------------------
-[https://dacon.io/competitions/official/236035/codeshare/7435?page=1&dtype=recent](https://dacon.io/competitions/official/236035/codeshare/7435?page=1&dtype=recent)

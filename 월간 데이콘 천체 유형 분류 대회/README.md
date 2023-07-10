@@ -22,4 +22,3 @@
 [월간 데이콘 천체 유형 분류 대회](./월간 데이콘 천체 유형 분류 대회.ipynb)
 # 참고자료
 ----------------------------------
-[https://dacon.io/competitions/official/235573/codeshare/627?page=2&dtype=recent](https://dacon.io/competitions/official/235573/codeshare/627?page=2&dtype=recent)

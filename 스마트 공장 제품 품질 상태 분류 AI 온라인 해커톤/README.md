@@ -22,4 +22,3 @@
 [스마트 공장 제품 품질 상태 분류 AI 온라인 해커톤.ipynb](./스마트_공장_제품_품질_상태_분류_AI_온라인_해커톤.ipynb)
 # 참고자료
 ----------------------------------
-[https://dacon.io/competitions/official/236055/codeshare/7857?page=1&dtype=recent](https://dacon.io/competitions/official/236055/codeshare/7857?page=1&dtype=recent)

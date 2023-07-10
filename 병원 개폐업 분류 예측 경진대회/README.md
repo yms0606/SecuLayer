@@ -23,4 +23,3 @@
 [병원 개 폐업 분류 예측 경진대회](./병원_개_폐업_분류_예측_경진대회.ipynb)
 # 참고자료
 ----------------------------------
-[https://dacon.io/competitions/official/9565/codeshare/5534?page=1&dtype=recent](https://dacon.io/competitions/official/9565/codeshare/5534?page=1&dtype=recent)

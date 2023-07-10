@@ -23,4 +23,3 @@
 [2022 AI 대학원 챌린지](./2022 AI 대학원 챌린지.ipynb)
 # 참고자료
 ----------------------------------
-[https://dacon.io/competitions/official/235932/codeshare/5905?page=1&dtype=recent](https://dacon.io/competitions/official/235932/codeshare/5905?page=1&dtype=recent)

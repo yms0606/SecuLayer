@@ -25,4 +25,3 @@
 [SW중심대학 공동 AI 경진대회 ❮예선❯.ipynb](./SW중심대학_공동_AI_경진대회_예선.ipynb)
 # 참고자료
 ----------------------------------
-[https://dacon.io/competitions/official/235902/codeshare/6183?page=12&dtype=recent](https://dacon.io/competitions/official/235902/codeshare/6183?page=12&dtype=recent)

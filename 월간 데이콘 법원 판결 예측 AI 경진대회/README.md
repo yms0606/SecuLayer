@@ -25,4 +25,3 @@
 [월간 데이콘 법원 판결 예측 AI 경진대회.ipynb](./월간_데이콘_법원_판결_예측_AI_경진대회.ipynb)
 # 참고자료
 ----------------------------------
-[https://dacon.io/competitions/official/236112/codeshare/8467?page=1&dtype=recent](https://dacon.io/competitions/official/236112/codeshare/8467?page=1&dtype=recent)

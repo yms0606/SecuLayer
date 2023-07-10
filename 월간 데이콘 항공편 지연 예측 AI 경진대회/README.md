@@ -24,4 +24,3 @@
 [월간 데이콘 항공편 지연 예측 AI 경진대회.ipynb](./월간_데이콘_항공편_지연_예측_AI_경진대회.ipynb)
 # 참고자료
 ----------------------------------
-[https://dacon.io/competitions/official/236094/codeshare/8374?page=1&dtype=recent](https://dacon.io/competitions/official/236094/codeshare/8374?page=1&dtype=recent)

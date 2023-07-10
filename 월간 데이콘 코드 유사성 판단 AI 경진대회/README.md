@@ -22,4 +22,3 @@
 [월간 데이콘 코드 유사성 판단 AI 경진대회](./월간_데이콘_코드_유사성_판단_AI_경진대회.ipynb)
 # 참고자료
 ----------------------------------
-[https://dacon.io/competitions/official/235900/codeshare/5045?page=2&dtype=recent](https://dacon.io/competitions/official/235900/codeshare/5045?page=2&dtype=recent)

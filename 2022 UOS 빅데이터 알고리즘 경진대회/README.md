@@ -24,4 +24,3 @@
 [2022 UOS 빅데이터 알고리즘 경진대회](./2022_UOS_빅데이터_알고리즘_경진대회.ipynb)
 # 참고자료
 ----------------------------------
-[https://dacon.io/competitions/official/236029/codeshare/7312?page=1&dtype=recent](https://dacon.io/competitions/official/236029/codeshare/7312?page=1&dtype=recent)
