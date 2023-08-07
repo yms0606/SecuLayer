@@ -19,6 +19,6 @@
   * lightgbm, catboost, xgboost 앙상블
 # 코드
 ----------------------------------
-[Petfinder.my - Pawpularity Contest.ipynb](https://github.com/yms0606/SecuLayer/blob/main/PetFinder.my%20-%20Pawpularity%20Contest/Petfinder.my%20-%20Pawpularity%20Contest.ipynb)
+[kobe bryant shot selection](https://github.com/yms0606/SecuLayer/blob/main/Kobe%20Bryant%20Shot%20Selection/kobe-bryant-shot-selection-modeling.ipynb)
 # 참고자료
 ----------------------------------
