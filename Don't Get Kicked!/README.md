@@ -19,6 +19,6 @@
   * 다양한 방식의 데이터 전처리
 # 코드
 ----------------------------------
-[Petfinder.my - Pawpularity Contest.ipynb](https://github.com/yms0606/SecuLayer/blob/main/PetFinder.my%20-%20Pawpularity%20Contest/Petfinder.my%20-%20Pawpularity%20Contest.ipynb)
+[Don't Get Kicked!.ipynb](https://github.com/yms0606/SecuLayer/tree/main/Don't%20Get%20Kicked!)
 # 참고자료
 ----------------------------------
