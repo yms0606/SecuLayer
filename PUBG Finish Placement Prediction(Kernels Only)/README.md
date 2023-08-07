@@ -20,6 +20,6 @@
   * solo, duo, squard 따로 학습 후 병합
 # 코드
 ----------------------------------
-[Petfinder.my - Pawpularity Contest.ipynb](https://github.com/yms0606/SecuLayer/blob/main/PetFinder.my%20-%20Pawpularity%20Contest/Petfinder.my%20-%20Pawpularity%20Contest.ipynb)
+[PUBG Finish Placement Prediction(Kernels Only).ipynb](https://github.com/yms0606/SecuLayer/blob/main/PUBG%20Finish%20Placement%20Prediction(Kernels%20Only)/pubg-finish-placement-modeling.ipynb)
 # 참고자료
 ----------------------------------
